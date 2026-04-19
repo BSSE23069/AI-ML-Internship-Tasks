@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
+import joblib
 import matplotlib.pyplot as plt
 
 # Libraries for Machine Learning
@@ -63,3 +64,6 @@ plt.xlabel("Actual Prices ($100k)")
 plt.ylabel("Predicted Prices ($100k)")
 plt.title("Actual vs. Predicted House Prices")
 plt.show()
+joblib.dump(model, 'house_model.pkl')
+joblib.dump(scaler, 'scaler.pkl')
+print("Model Saved Successfully!")
