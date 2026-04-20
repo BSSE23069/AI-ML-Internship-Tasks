@@ -1,20 +1,20 @@
-AI/ML Engineering Internship Tasks
-Organization: DevelopersHub Corporation
-Intern:Muhammad Numan
+                              AI/ML Engineering Internship Tasks
+                             Organization: DevelopersHub Corporation
+                                  Intern:Muhammad Numan
 Tasks Completed: Task 1 & Task 6
-🛠️ Environment Setup
+                                 🛠️ Environment Setup
 Before running the tasks, ensure you have the required libraries installed:
-code
+                                      code
 Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit
-🌸 Task 1: Exploring and Visualizing a Simple Dataset
+                         🌸 Task 1: Exploring and Visualizing a Simple Dataset
 Objective: Load, inspect, and visualize the Iris Dataset to understand data trends and feature distributions.
-📂 Files
+                                      📂 Files
 Task1_Iris_Visualization.ipynb: Jupyter Notebook containing data analysis and visualization.
-🚀 How to Run
+                                  🚀 How to Run
 Open the .ipynb file in VS Code or Jupyter Notebook.
 Run all cells to see the data summary and generated plots.
-📊 Visual Insights
+                               📊 Visual Insights
 Step	Description	Screenshot
 Data Inspection	Using .head(), .info(), and .describe() to understand the structure.	
 ![alt text](/Screenshots/image-2.png)
@@ -27,12 +27,12 @@ Distributions	Histograms showing the frequency and range of feature values.
 ![alt text](/Screenshots/image-6.png)
 Outlier Detection	Box plots used to identify data spread and potential outliers per species.	
 ![alt text](/Screenshots/image-7.png)
-🏠 Task 6: House Price Prediction
+                        🏠 Task 6: House Price Prediction
 Objective: Predict California house prices using property features (income, age, location) with a Gradient Boosting model and a Streamlit dashboard.
-📂 Files
+                                📂 Files
 House_Price_Prediction.py: Backend script for model training and console evaluation.
 App.py: Full-stack Streamlit application featuring EDA and a Predictive UI.
-🚀 How to Run
+                        🚀 How to Run
 1. Terminal Script:
 code
 Bash
