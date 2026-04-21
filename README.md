@@ -20,6 +20,8 @@ Landing Page	Chat Interface
 ![alt text](/Screenshots/image-19%20(3).png)
 ![alt text](/Screenshots/image-19%20(2).png)
 HuggingFace:
+link:
+    " https://huggingface.co/spaces/NumanTahir/Health.ai"
 ![alt text](/Screenshots/image-18.png)
 
 🛠️ Training & Tech Stack
