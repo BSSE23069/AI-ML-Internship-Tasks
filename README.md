@@ -7,6 +7,16 @@ Before running the tasks, ensure you have the required libraries installed:
                                       code
 Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit
+                           💊 Task 5: Mentel_health_chatboard
+
+website:
+       you can click link to see it 
+       "https://florentine-numan.netlify.app/"
+ ![alt text](/Screenshots/image-13.png) 
+ ![alt text](/Screenshots/image-14.png)     
+ ![alt text](/Screenshots/image-15.png)
+ ![alt text](/Screenshots/image-16.png)
+ ![alt text](/Screenshots/image-17.png)
 
                          🌸 Task 1: Exploring and Visualizing a Simple Dataset
 
@@ -31,16 +41,7 @@ Distributions	Histograms showing the frequency and range of feature values.
 ![alt text](/Screenshots/image-6.png)
 Outlier Detection	Box plots used to identify data spread and potential outliers per species.	
 ![alt text](/Screenshots/image-7.png)
-                           Task 5: Mental health chatboard 
-
-website:
-       you can click link to see it 
-       "https:/"
- ![alt text](/Screenshots/image-13.png) 
- ![alt text](/Screenshots/image-14.png)     
- ![alt text](/Screenshots/image-15.png)
- ![alt text](/Screenshots/image-16.png)
- ![alt text](/Screenshots/image-17.png)
+                          
 
                         🏠 Task 6: House Price Prediction
 Objective: Predict California house prices using property features (income, age, location) with a Gradient Boosting model and a Streamlit dashboard.
