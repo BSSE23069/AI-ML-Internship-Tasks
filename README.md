@@ -7,12 +7,16 @@ Before running the tasks, ensure you have the required libraries installed:
                                       code
 Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit
+
                          🌸 Task 1: Exploring and Visualizing a Simple Dataset
+
 Objective: Load, inspect, and visualize the Iris Dataset to understand data trends and feature distributions.
+
                                       📂 Files
 Task1_Iris_Visualization.ipynb: Jupyter Notebook containing data analysis and visualization.
                                   🚀 How to Run
 Open the .ipynb file in VS Code or Jupyter Notebook.
+
 Run all cells to see the data summary and generated plots.
                                📊 Visual Insights
 Step	Description	Screenshot
@@ -27,6 +31,17 @@ Distributions	Histograms showing the frequency and range of feature values.
 ![alt text](/Screenshots/image-6.png)
 Outlier Detection	Box plots used to identify data spread and potential outliers per species.	
 ![alt text](/Screenshots/image-7.png)
+                           Task 5: Mental health chatboard 
+
+website:
+       you can click link to see it 
+       "https:/"
+ ![alt text](image13.png) 
+ ![alt text](image-14.png)     
+ ![alt text](image-15.png)
+ ![alt text](image-16.png)
+ ![alt text](image-17.png)
+
                         🏠 Task 6: House Price Prediction
 Objective: Predict California house prices using property features (income, age, location) with a Gradient Boosting model and a Streamlit dashboard.
                                 📂 Files
@@ -34,9 +49,9 @@ House_Price_Prediction.py: Backend script for model training and console evaluat
 App.py: Full-stack Streamlit application featuring EDA and a Predictive UI.
                         🚀 How to Run
 1. Terminal Script:
-code
-Bash
-python House_Price_Prediction.py
+open:
+python House_Price_Prediction.ipynb
+run each cell 
 2. Interactive Web App:
 code
 Bash
