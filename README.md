@@ -66,4 +66,5 @@ Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit transformers torch
 3. Launch the Applications
 For House Price App: streamlit run App.py
+
 For Mental Health Chatbot: streamlit run Serenity_App.py
