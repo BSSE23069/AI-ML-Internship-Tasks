@@ -18,12 +18,13 @@ Functionality: Includes emotion-state selection (Sad, Anxious, etc.) to guide th
 Landing Page	Chat Interface
 
 ![alt text](/Screenshots/image-19%20(1).png)
+![alt text](/Screenshots/image-15.png)
 ![alt text](/Screenshots/image-19%20(3).png)
 
 🛠️ Training & Tech Stack
 The model was fine-tuned using the Hugging Face Trainer API. Below are the training metrics and the architecture overview.
 
-![alt text](/Screenshots/image-15.png)
+
 
 ![alt text](/Screenshots/image-19%20(2).png)
 Live App (Static): Serenity on Netlify
